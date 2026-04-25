@@ -1,4 +1,7 @@
 # Carpet GUGU Addition
+
+中文(README.md) | English
+
 **A Novice's First Open-Source Fabric Mod**
 
 [![License: LGPL-3.0](https://img.shields.io/github/license/DaCong114514qwq/Carpet-GUGU-Addition?color=blue)](https://choosealicense.com/licenses/lgpl-3.0/)
