@@ -1,6 +1,6 @@
 # Carpet GUGU Addition
 
-中文(README.md) | English
+[中文](README.md) | English
 
 **A Novice's First Open-Source Fabric Mod**
 
