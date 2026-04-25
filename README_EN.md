@@ -7,7 +7,7 @@
 [![License: LGPL-3.0](https://img.shields.io/github/license/DaCong114514qwq/Carpet-GUGU-Addition?color=blue)](https://choosealicense.com/licenses/lgpl-3.0/)
 [![GitHub Downloads](https://img.shields.io/github/downloads/DaCong114514qwq/Carpet-GUGU-Addition/total?color=161616&logo=github)](https://github.com/DaCong114514qwq/Carpet-GUGU-Addition/releases)
 [![Latest Tag](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FDaCong114514qwq%2FCarpet-GUGU-Addition%2Freleases%2Flatest&query=%24.tag_name&label=Latest%20Release&color=success&logo=github)](https://github.com/DaCong114514qwq/Carpet-GUGU-Addition/releases/latest)
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x--26.x-blue?logo=curseforge)](https://www.minecraft.net/)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x--26.x-blue)](https://www.minecraft.net/)
 [![Carpet Mod](https://img.shields.io/badge/Carpet-Must--Required-orange?logo=modrinth)](https://modrinth.com/mod/carpet)
 
 
