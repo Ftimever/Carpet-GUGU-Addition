@@ -33,7 +33,6 @@ This mod adds several new rules to Carpet, including:
 
 - **Remote Item Collection / Remote Container Interaction**: Allows players to interact with containers remotely.
 - **Auto Experience Mending**: Automatically uses experience to repair enchanted items with Mending.
-- **No-OP Carpet Command Permissions (Server Edition)**: Server-specific functionality for granting Carpet command access without operator privileges.
 
 For detailed information on all available rules, please refer to the [Rules.md](Rules.md) 文件。
 
